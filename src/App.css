@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.col {
+  padding : 0 !important;
+}
+
+.cell {
+  height:80px;
+}
+
+.cella {
+  background-color: cadetblue;
+}
+
+.cellb {
+  background-color: #ffffff;
+}
+
+.tool{
+  width: 80px;
+  height:80px;
+}
+
+.empty {
+  height: 50px;
+}
+
+.selected{
+  background-color: #f44336
+}
